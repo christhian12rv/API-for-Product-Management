@@ -88,12 +88,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ### Installation
 
-1. Create a bot with BotFather on Telegram and get the TOKEN
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/christhian12rv/API-for-Product-Management
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
