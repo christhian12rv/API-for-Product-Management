@@ -33,7 +33,7 @@ The purpose of this project is to create a API for Product Management using Azur
 ### Built With
 
 * [Node.js](https://nodejs.org/en/)
-* [AzureFunctions](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda)
+* [Azure Functions](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda)
 
 ## npm packages
 
