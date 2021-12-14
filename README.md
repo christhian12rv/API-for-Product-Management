@@ -14,7 +14,6 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#running-the-project">Running the project</a></li>
-        <li><a href="#simple-build-for-production">Simple build for production</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
