@@ -90,7 +90,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/christhian12rv/API-for-Product-Management
+   git clone https://github.com/christhian12rv/API-for-Product-Management.git
    ```
 2. Install NPM packages
    ```sh
